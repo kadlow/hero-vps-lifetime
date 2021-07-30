@@ -68,6 +68,7 @@ RUN rm -rf /etc/apt/sources.list && \
 	supervisor \
 	x11vnc \
 	xvfb \
+	qbittorrent \
 	gnupg \
 	dirmngr \
 	gdebi-core \
